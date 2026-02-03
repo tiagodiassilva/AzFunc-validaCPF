@@ -1,0 +1,11 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet", 
+    "ServiceBusConnection": "SUA_CONNECTION_STRING_AQUI",
+    "DatabaseConnectionString": "SUA_URL_DO_BANCO_AQUI",
+    "ApiKey": "VALOR_DA_CHAVE_DE_TESTE"
+  },
+  "ConnectionStrings": {}
+}
